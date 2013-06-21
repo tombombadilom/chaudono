@@ -2,7 +2,6 @@ var fs = require('fs');
 var express = require('express');
 var chaudono = require('./src/server/chaudono');
 var app = express();
-var path = require('path');
 var util = require('util');
 var _ = require('underscore');
 

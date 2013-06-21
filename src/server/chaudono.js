@@ -1,9 +1,4 @@
 var fs = require('fs');
-var path = require('path');
-var mkdirp = require('mkdirp');
-var rimraf = require('rimraf');
-var findit = require('findit');
-var crypto = require('crypto');
 var Sequelize = require('sequelize');
 var _ = require('underscore');
 

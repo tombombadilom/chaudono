@@ -15,8 +15,6 @@
     "mysql": "latest",
     "sequelize": "latest",
     "nodemailer": "latest",
-    "mkdirp": "latest",
-    "findit": "latest"
   },
   "license": "GPL v2",
   "bin": {

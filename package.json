@@ -15,7 +15,6 @@
     "mysql": "latest",
     "sequelize": "latest",
     "nodemailer": "latest",
-    "gm": "latest",
     "mkdirp": "latest",
     "findit": "latest"
   },
@@ -24,7 +23,7 @@
     "chaudono": "index.js"
   },
   "devDependencies": {
-    "jshint": "*",
+    "jshint": "*"
   },
   "engines": {
     "node": ">=0.9.0",

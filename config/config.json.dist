@@ -7,6 +7,7 @@
 	},
 	"secret": "sdqreiowqurqiEOUIrepw(*$(*@899832#&$",
 	"tmpdir": "tmp",
+	"staticdir": "public",
 	"database": {
 		"datábase": "chaudono",
 		"protocol": "mysql",
